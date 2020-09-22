@@ -1,6 +1,5 @@
 package com.example.sdc_redis_template.controller;
 
-import com.example.sdc_redis_template.common.service.RedisService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.redis.core.*;
 import org.springframework.web.bind.annotation.RequestMapping;
